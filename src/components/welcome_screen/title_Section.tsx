@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
-import LogoSVG from '../../assets/another_logo.svg';
+import LogoSVG from '../../../assets/welcome_screen_logo.svg'
 
 const TitleSection: React.FC = () => {
   return (

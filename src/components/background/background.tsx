@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, StyleSheet } from 'react-native';
-import GradientSVG from '../../assets/background.svg';
-import DecorationSVG from '../../assets/opinion_saydam_logo.svg';
+import GradientSVG from '../../../assets/background.svg';
+import DecorationSVG from '../../../assets/opinion_saydam_logo.svg';
 
 type Props = {
   children: React.ReactNode;

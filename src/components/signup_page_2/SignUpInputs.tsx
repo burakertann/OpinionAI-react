@@ -3,10 +3,10 @@ import { View } from 'react-native';
 
 import InputField from '../signup_page_2/inputField';
 
-import UserIcon from '../../assets/person_icon.svg';
-import PhoneIcon from '../../assets/mobile_icon.svg';
-import MailIcon from '../../assets/eposta_icon.svg';
-import LockIcon from '../../assets/password_icon.svg';
+import UserIcon from '../../../assets/person_icon.svg';
+import PhoneIcon from '../../../assets/mobile_icon.svg';
+import MailIcon from '../../../assets/eposta_icon.svg';
+import LockIcon from '../../../assets/password_icon.svg';
 
 export default function SignUpInputs() {
   return (

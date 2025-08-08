@@ -1,6 +1,6 @@
 import React from 'react';
 import { View } from 'react-native';
-import PurpleLogoSvg from '../../assets/opinion_purple_logo.svg';
+import PurpleLogoSvg from '../../../assets/opinion_purple_logo.svg';
 
 type Props = {
   width?: number;
